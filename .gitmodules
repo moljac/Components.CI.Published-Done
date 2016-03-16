@@ -10,3 +10,6 @@
 [submodule "CI/Android/JSch"]
 	path = CI/Android/JSch
 	url = https://github.com/moljac/JSch.git
+[submodule "CI/iOS/KxMenu"]
+	path = CI/iOS/KxMenu
+	url = https://github.com/moljac/KxMenu.git
