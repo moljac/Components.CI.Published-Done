@@ -1,0 +1,12 @@
+[submodule "CI/Android/AChartEngine"]
+	path = CI/Android/AChartEngine
+	url = https://github.com/moljac/AChartEngine.git
+[submodule "CI/Android/OCPP.PrinterThermal.USB"]
+	path = CI/Android/OCPP.PrinterThermal.USB
+	url = https://github.com/moljac/OCPP.PrinterThermal.USB.git
+[submodule "CI/Android/OCPP.PrinterThermal.Bluetooth"]
+	path = CI/Android/OCPP.PrinterThermal.Bluetooth
+	url = https://github.com/moljac/OCPP.PrinterThermal.Bluetooth.git
+[submodule "CI/Android/JSch"]
+	path = CI/Android/JSch
+	url = https://github.com/moljac/JSch.git
